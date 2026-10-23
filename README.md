@@ -11,7 +11,7 @@ Our answer is **OmniDN-S**, an efficient NAFNet-style U-Net with a global-attent
 that match the competition metrics (PSNR-loss, exact skimage SSIM, official DISTS), and its final weights blend two
 DISTS-weighted fine-tunes.
 
-## Final result (submitted: `submission/` = `submission_versions/v3_final`)
+## Final result (submitted: `submission/` = `submission`)
 
 | Model | GFLOPs @256² | Proxy test (600 pairs) PSNR / SSIM / DISTS | Unseen corruptions (140 pairs) |
 |---|---|---|---|
