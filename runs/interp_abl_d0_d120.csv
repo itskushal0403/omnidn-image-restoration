@@ -1,0 +1,4 @@
+alpha,set,psnr,ssim,dists,psnr_lowlight,psnr_medical,psnr_natural
+0.2,proxy_test_v2,33.4037,0.8978,0.1509,37.929,35.915,29.814
+0.35,proxy_test_v2,33.3602,0.8971,0.1455,37.896,35.86,29.777
+0.5,proxy_test_v2,33.295,0.8959,0.1393,37.84,35.78,29.719

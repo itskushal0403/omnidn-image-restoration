@@ -1,0 +1,17 @@
+# Python junk
+__pycache__/
+*.pyc
+*.egg-info/
+
+# Not stored in this repository
+data/
+checkpoints/
+logs/
+deliverables/
+submission_versions/
+runs/**/tb/
+
+# Model files: only the final submitted weights are kept
+*.pth
+!submission/weights/omnidn.pth
+

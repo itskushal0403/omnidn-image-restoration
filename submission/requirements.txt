@@ -1,0 +1,7 @@
+# inference
+torch>=2.0
+numpy
+Pillow
+# FLOP counting (check_flops.py)
+fvcore
+ptflops
